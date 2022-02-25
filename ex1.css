@@ -1,0 +1,23 @@
+#container{
+    width: 1089px;
+    height: 800px;
+    background-color:rgb(240, 226, 33);
+    margin: auto;
+}
+#mid{
+    width: 70%;
+    height: 500px;
+    float: right;
+    background-color: rgb(18, 167, 120);
+    margin-top: 150px;
+}
+#right{
+ width: 18%;
+ height: 100%;
+ background-color: rgb(86, 164, 156);
+ float: right;
+}
+h1{
+    color: rgb(97, 132, 123);
+    text-align: center;
+}
